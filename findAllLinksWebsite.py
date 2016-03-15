@@ -1,3 +1,4 @@
+# Require's beautifulsoup3
 import urllib
 from BeautifulSoup import *
 
